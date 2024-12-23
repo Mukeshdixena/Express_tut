@@ -14,7 +14,7 @@ addition for reload free server:
 
 after creating the index file 
 for runing the file 
-`nodemon .\index.js`
+`nodemon .\tut_01\index.js`
 
 and then result will be in :
  `http://localhost:3000`
