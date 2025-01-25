@@ -25,3 +25,4 @@ exports.getProductsPage = (req, res, next) => {
         productCSS: true
     });
 }
+
